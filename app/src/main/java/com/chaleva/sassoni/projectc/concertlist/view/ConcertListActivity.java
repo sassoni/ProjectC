@@ -40,18 +40,6 @@ public class ConcertListActivity extends AppCompatActivity implements ConcertLis
     }
 
     @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.concert_list_menu, menu);
-
-        SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
-
-        SearchView searchView = (SearchView) menu.findItem(R.id.menu_search).getActionView();
-        searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
-        searchView.setIconifiedByDefault(true);
-        return true;
-    }
-
-    @Override
     protected void onResume() {
         super.onResume();
         mPresenter.attach(this);
