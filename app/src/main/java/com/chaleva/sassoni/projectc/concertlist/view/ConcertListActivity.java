@@ -1,18 +1,18 @@
 package com.chaleva.sassoni.projectc.concertlist.view;
 
-import android.app.SearchManager;
-import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
-import android.view.Menu;
+import android.view.View;
+import android.widget.Button;
 
 import com.chaleva.sassoni.projectc.Concert;
 import com.chaleva.sassoni.projectc.R;
 import com.chaleva.sassoni.projectc.concertlist.presenter.ConcertListPresenter;
+import com.chaleva.sassoni.projectc.artistsearch.view.ArtistSearchActivity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,10 +28,21 @@ public class ConcertListActivity extends AppCompatActivity implements ConcertLis
     private RecyclerView.LayoutManager mLayoutManager;
     private ConcertListRecyclerViewAdapter mAdapter;
 
+    private Button mTempButton;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_concert_list);
+
+        mTempButton = (Button) findViewById(R.id.temp_btn);
+        mTempButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ConcertListActivity.this, ArtistSearchActivity.class);
+                startActivity(intent);
+            }
+        });
 
         setupToolbar();
         setupRecyclerView();

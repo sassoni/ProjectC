@@ -16,6 +16,12 @@
         android:minHeight="?attr/actionBarSize"
         app:theme="@style/ThemeOverlay.AppCompat.ActionBar" />
 
+    <Button
+        android:id="@+id/temp_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click me"/>
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/concert_list_recycler_view"
         android:layout_width="match_parent"
