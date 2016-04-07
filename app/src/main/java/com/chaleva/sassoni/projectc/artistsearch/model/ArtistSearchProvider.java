@@ -1,4 +1,4 @@
-package com.chaleva.sassoni.projectc.artistsearch.model.songkick;
+package com.chaleva.sassoni.projectc.artistsearch.model;
 
 import com.chaleva.sassoni.projectc.Artist;
 

@@ -1,8 +1,11 @@
 package com.chaleva.sassoni.projectc.artistsearch.presenter;
 
+import android.content.Context;
+
 import com.chaleva.sassoni.projectc.Artist;
-import com.chaleva.sassoni.projectc.artistsearch.model.songkick.ArtistSearchProvider;
-import com.chaleva.sassoni.projectc.artistsearch.model.songkick.ArtistSearchProviderImpl;
+import com.chaleva.sassoni.projectc.artistsearch.model.ArtistSearchProvider;
+import com.chaleva.sassoni.projectc.artistsearch.model.songkick.SongkickArtistSearchProviderImpl;
+import com.chaleva.sassoni.projectc.artistsearch.model.songkick.SongkickMockArtistSearchProviderImpl;
 import com.chaleva.sassoni.projectc.artistsearch.view.ArtistSearchView;
 
 import java.util.List;
@@ -20,11 +23,12 @@ public class ArtistSearchPresenter implements Observer<List<Artist>> {
     private Subscription mSubscription;
 
     public ArtistSearchPresenter() {
-        mProvider = new ArtistSearchProviderImpl();
+//        mProvider = new SongkickArtistSearchProviderImpl();
     }
 
     public void attach(ArtistSearchView view) {
         mView = view;
+        mProvider = new SongkickMockArtistSearchProviderImpl((Context) mView);  // temp
     }
 
     public void detach() {

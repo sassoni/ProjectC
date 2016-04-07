@@ -2,6 +2,7 @@ package com.chaleva.sassoni.projectc.artistsearch.model.songkick;
 
 import com.chaleva.sassoni.projectc.Artist;
 import com.chaleva.sassoni.projectc.RetrofitInstance;
+import com.chaleva.sassoni.projectc.artistsearch.model.ArtistSearchProvider;
 
 import java.util.List;
 
@@ -15,9 +16,9 @@ import rx.schedulers.Schedulers;
 /**
  * Created by sassa on 4/5/16.
  */
-public class ArtistSearchProviderImpl implements ArtistSearchProvider {
+public class SongkickArtistSearchProviderImpl implements ArtistSearchProvider {
 
-   
+    private static final String API_KEY = "";
     private static GitHubService sService = RetrofitInstance.INSTANCE.getRetrofit().create(GitHubService.class);
 
     public interface GitHubService {

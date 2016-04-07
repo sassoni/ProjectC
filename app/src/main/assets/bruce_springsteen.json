@@ -1,0 +1,112 @@
+{
+  "resultsPage": {
+    "status": "ok",
+    "results": {
+      "artist": [
+        {
+          "displayName": "Bruce Springsteen",
+          "onTourUntil": "2016-07-16",
+          "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+          "identifier": [
+            {
+              "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+              "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f",
+              "eventsHref": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f/calendar.json",
+              "setlistsHref": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f/setlists.json"
+            }
+          ],
+          "id": 227030
+        },
+        {
+          "displayName": "Bruce Springsteen & The E Street Band",
+          "onTourUntil": "2016-07-23",
+          "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+          "identifier": [
+            {
+              "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+              "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f",
+              "eventsHref": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f/calendar.json",
+              "setlistsHref": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f/setlists.json"
+            }
+          ],
+          "id": 423316
+        },
+        {
+          "onTourUntil": null,
+          "identifier": [
+
+          ],
+          "uri": "http://www.songkick.com/artists/360742-bruce-springsteen-with-the-sessions-band?utm_source=39992&utm_medium=partner",
+          "displayName": "Bruce Springsteen with the Sessions Band",
+          "id": 360742
+        },
+        {
+          "onTourUntil": null,
+          "identifier": [
+
+          ],
+          "uri": "http://www.songkick.com/artists/6069789-bruce-springsteen-undercover?utm_source=39992&utm_medium=partner",
+          "displayName": "Bruce Springsteen Undercover",
+          "id": 6069789
+        },
+        {
+          "identifier": [
+
+          ],
+          "uri": "http://www.songkick.com/artists/5499998-bruce-springsteen-with-the-seeger-session-band?utm_source=39992&utm_medium=partner",
+          "onTourUntil": null,
+          "id": 5499998,
+          "displayName": "Bruce Springsteen With the Seeger Session Band"
+        },
+        {
+          "onTourUntil": null,
+          "identifier": [
+
+          ],
+          "displayName": "Springsteen! (Bruce Springsteen Tribute)",
+          "uri": "http://www.songkick.com/artists/8588474-springsteen-bruce-springsteen-tribute?utm_source=39992&utm_medium=partner",
+          "id": 8588474
+        },
+        {
+          "uri": "http://www.songkick.com/artists/4184081-bruce-springsteens-the-promise?utm_source=39992&utm_medium=partner",
+          "onTourUntil": null,
+          "identifier": [
+
+          ],
+          "displayName": "Bruce Springsteen's the Promise",
+          "id": 4184081
+        },
+        {
+          "identifier": [
+
+          ],
+          "onTourUntil": null,
+          "uri": "http://www.songkick.com/artists/8031278-bruce-springsteen-cover?utm_source=39992&utm_medium=partner",
+          "id": 8031278,
+          "displayName": "Bruce Springsteen Cover"
+        },
+        {
+          "onTourUntil": null,
+          "identifier": [
+
+          ],
+          "uri": "http://www.songkick.com/artists/7690989-bruce-springsteen-cover-i-bygningen?utm_source=39992&utm_medium=partner",
+          "displayName": "Bruce Springsteen Cover I Bygningen",
+          "id": 7690989
+        },
+        {
+          "identifier": [
+
+          ],
+          "onTourUntil": null,
+          "uri": "http://www.songkick.com/artists/4700953-american-headlight-noise-as-bruce-springsteen?utm_source=39992&utm_medium=partner",
+          "displayName": "American Headlight Noise As Bruce Springsteen",
+          "id": 4700953
+        }
+      ]
+    },
+    "perPage": 50,
+    "page": 1,
+    "totalEntries": 10
+  }
+}
