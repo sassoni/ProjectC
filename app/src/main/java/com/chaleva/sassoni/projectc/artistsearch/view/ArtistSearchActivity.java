@@ -9,6 +9,7 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -29,7 +30,6 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
     private ArtistSearchRecyclerViewAdapter mAdapter;
 
     private EditText mEditText;
-    private Button mButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,19 +37,11 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
         setContentView(R.layout.activity_artist_search);
 
         mEditText = (EditText) findViewById(R.id.edit_text);
-        mButton = (Button) findViewById(R.id.search_btn);
 
         setupToolbar();
         setupRecyclerView();
 
         mPresenter = new ArtistSearchPresenter();
-
-        mButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                mPresenter.search(mEditText.getText().toString());
-            }
-        });
     }
 
     @Override
@@ -64,25 +56,25 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
         mPresenter.detach();
     }
 
-//    @Override
-//    public boolean onCreateOptionsMenu(Menu menu) {
-//        getMenuInflater().inflate(R.menu.artist_search_menu, menu);
-//
-//        SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
-//
-//        SearchView searchView = (SearchView) menu.findItem(R.id.menu_search).getActionView();
-//        searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
-//        searchView.setIconifiedByDefault(false);
-//        searchView.setSubmitButtonEnabled(true);
-//        return true;
-//    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.artist_search_menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.menu_search:
+                mPresenter.search(mEditText.getText().toString());
+                return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
 
     @Override
     public void refreshArtistList(List<Artist> artistList) {
         mAdapter.updateData(artistList);
-//        for (Artist artist : artistList) {
-//            Log.i("Artist:", artist.getDisplayName());
-//        }
     }
 
     private void setupToolbar() {
