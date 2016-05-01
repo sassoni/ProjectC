@@ -31,7 +31,7 @@ public class SongkickConcertSearchResponse {
 
     @JsonIgnoreProperties(ignoreUnknown = true)
     private static class Results {
-        @JsonProperty("events")
+        @JsonProperty("event")
         private List<Event> mEvents;
     }
 
@@ -100,7 +100,7 @@ public class SongkickConcertSearchResponse {
     @JsonIgnoreProperties(ignoreUnknown = true)
     private static class Venue {
         @JsonProperty("displayName")
-        private long mDisplayName;
+        private String mDisplayName;
         @JsonProperty("lat")
         private String mLat;
         @JsonProperty("lng")
@@ -116,7 +116,7 @@ public class SongkickConcertSearchResponse {
     @JsonIgnoreProperties(ignoreUnknown = true)
     private static class MetroArea {
         @JsonProperty("displayName")
-        private long mDisplayName;
+        private String mDisplayName;
         @JsonProperty("uri")
         private String mUri;
         @JsonProperty("id")
@@ -130,26 +130,25 @@ public class SongkickConcertSearchResponse {
     @JsonIgnoreProperties(ignoreUnknown = true)
     private static class State {
         @JsonProperty("displayName")
-        private long mDisplayName;
+        private String mDisplayName;
     }
 
     @JsonIgnoreProperties(ignoreUnknown = true)
     private static class Country {
         @JsonProperty("displayName")
-        private long mDisplayName;
+        private String mDisplayName;
     }
 
     public List<Concert> getConcertList() {
         List<Concert> concerts = new ArrayList<>();
-//        if (mResultsPage.mResults.mArtists != null &&
-//                mResultsPage.mResults.mArtists.size() != 0) {
-//            for (ArtistInstance instance : mResultsPage.mResults.mArtists) {
-//                com.chaleva.sassoni.projectc.Artist artist = new com.chaleva.sassoni.projectc.Artist();
-//                artist.setDisplayName(instance.mDisplayName);
-//                artist.setId(Long.toString(instance.mId));
-//                artists.add(artist);
-//            }
-//        }
+        if (mResultsPage.mResults.mEvents != null &&
+                mResultsPage.mResults.mEvents.size() != 0) {
+            for (Event event : mResultsPage.mResults.mEvents) {
+                Concert concert = new Concert();
+                concert.setDisplayName(event.mDisplayName);
+                concerts.add(concert);
+            }
+        }
         return concerts;
     }
 }

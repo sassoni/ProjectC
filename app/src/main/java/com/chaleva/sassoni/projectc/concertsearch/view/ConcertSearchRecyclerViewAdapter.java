@@ -44,7 +44,7 @@ public class ConcertSearchRecyclerViewAdapter extends RecyclerView.Adapter<Conce
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
         // TODO Check bounds
-        String title = mConcertsList.get(position).getTitle();
+        String title = mConcertsList.get(position).getDisplayName();
         holder.mTextView.setText(title);
     }
 

@@ -16,13 +16,13 @@ public class ConcertListProviderImpl implements ConcertListProvider {
 
     private List<Concert> generatePlaceholderConcerts() {
         Concert tool = new Concert();
-        tool.setTitle("Tool");
+        tool.setDisplayName("Tool");
         Concert savages = new Concert();
-        savages.setTitle("Savages");
+        savages.setDisplayName("Savages");
         Concert bruce = new Concert();
-        bruce.setTitle("Bruce Springsteen");
+        bruce.setDisplayName("Bruce Springsteen");
         Concert acdc = new Concert();
-        acdc.setTitle("ACDC");
+        acdc.setDisplayName("ACDC");
         List<Concert> list = new ArrayList<>();
         list.add(tool);
         list.add(savages);

@@ -70,6 +70,9 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
             case R.id.menu_search:
                 if (!TextUtils.isEmpty(mEditText.getText().toString().trim())) {
                     mSearchedArtist = (mEditText.getText().toString());

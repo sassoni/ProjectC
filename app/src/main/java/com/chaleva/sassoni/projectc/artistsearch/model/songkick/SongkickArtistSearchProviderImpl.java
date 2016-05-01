@@ -18,7 +18,6 @@ import rx.schedulers.Schedulers;
  */
 public class SongkickArtistSearchProviderImpl implements ArtistSearchProvider {
 
-   
     private static GitHubService sService = RetrofitInstance.INSTANCE.getRetrofit().create(GitHubService.class);
 
     public interface GitHubService {

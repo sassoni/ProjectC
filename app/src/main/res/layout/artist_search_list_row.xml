@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -8,8 +9,12 @@
         android:id="@+id/artist_search_list_row_txt"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="24dp"
-        android:textColor="@color/colorPrimaryText" />
+        android:layout_margin="16dp"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center_vertical"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="16sp"
+        tools:text="Bruce Springsteen" />
 
     <View
         android:layout_width="match_parent"
