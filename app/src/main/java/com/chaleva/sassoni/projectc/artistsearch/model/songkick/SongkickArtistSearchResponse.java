@@ -1,11 +1,11 @@
 package com.chaleva.sassoni.projectc.artistsearch.model.songkick;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.chaleva.sassoni.projectc.Artist;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by sassa on 4/5/16.
@@ -54,10 +54,10 @@ public class SongkickArtistSearchResponse {
             for (ArtistInstance instance : mResultsPage.mResults.mArtists) {
                 Artist artist = new Artist();
                 artist.setDisplayName(instance.mDisplayName);
+                artist.setId(Long.toString(instance.mId));
                 artists.add(artist);
             }
         }
         return artists;
     }
-
 }

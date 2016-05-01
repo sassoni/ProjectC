@@ -1,6 +1,5 @@
 package com.chaleva.sassoni.projectc.artistsearch.model.songkick;
 
-import android.app.Application;
 import android.content.Context;
 import android.content.res.AssetManager;
 
@@ -34,12 +33,12 @@ public class SongkickMockArtistSearchProviderImpl implements ArtistSearchProvide
 
     private List<Artist> bruceSpringsteen() {
         List<Artist> artists = new ArrayList<>();
-        AssetManager mgr = mContext.getAssets();
+        AssetManager manager = mContext.getAssets();
         ObjectMapper mapper = new ObjectMapper();
 
         try {
-            InputStream ifp = mgr.open("bruce_springsteen.json");
-            SongkickArtistSearchResponse response = mapper.readValue(ifp, SongkickArtistSearchResponse.class);
+            InputStream stream = manager.open("bruce_springsteen.json");
+            SongkickArtistSearchResponse response = mapper.readValue(stream, SongkickArtistSearchResponse.class);
             artists = response.getArtistList();
         } catch (IOException e) {
             e.printStackTrace();

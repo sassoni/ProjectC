@@ -2,12 +2,14 @@ package com.chaleva.sassoni.projectc.artistsearch.view;
 
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
+import android.text.TextUtils;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -17,11 +19,12 @@ import android.widget.EditText;
 import com.chaleva.sassoni.projectc.Artist;
 import com.chaleva.sassoni.projectc.R;
 import com.chaleva.sassoni.projectc.artistsearch.presenter.ArtistSearchPresenter;
+import com.chaleva.sassoni.projectc.concertsearch.view.ConcertSearchActivity;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArtistSearchActivity extends AppCompatActivity implements ArtistSearchView {
+public class ArtistSearchActivity extends AppCompatActivity implements ArtistSearchView, ArtistSearchRecyclerViewAdapter.ArtistClickedListener{
 
     private ArtistSearchPresenter mPresenter;
 
@@ -30,6 +33,8 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
     private ArtistSearchRecyclerViewAdapter mAdapter;
 
     private EditText mEditText;
+
+    private String mSearchedArtist = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,7 +71,10 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.menu_search:
-                mPresenter.search(mEditText.getText().toString());
+                if (!TextUtils.isEmpty(mEditText.getText().toString().trim())) {
+                    mSearchedArtist = (mEditText.getText().toString());
+                    mPresenter.search(mSearchedArtist);
+                }
                 return true;
         }
         return super.onOptionsItemSelected(item);
@@ -74,7 +82,18 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
 
     @Override
     public void refreshArtistList(List<Artist> artistList) {
-        mAdapter.updateData(artistList);
+        mAdapter.updateData(mSearchedArtist, artistList);
+    }
+
+    @Override
+    public void openConcertSearchScreen(Artist artist) {
+        Intent intent = ConcertSearchActivity.createIntent(this, artist);
+        startActivity(intent);
+    }
+
+    @Override
+    public void onArtistClicked(Artist artist) {
+        mPresenter.onArtistClicked(artist);
     }
 
     private void setupToolbar() {
@@ -91,7 +110,7 @@ public class ArtistSearchActivity extends AppCompatActivity implements ArtistSea
         mLayoutManager = new LinearLayoutManager(this);
         mRecyclerView.setLayoutManager(mLayoutManager);
 
-        mAdapter = new ArtistSearchRecyclerViewAdapter(new ArrayList<Artist>());
+        mAdapter = new ArtistSearchRecyclerViewAdapter(new ArrayList<Artist>(), this);
         mRecyclerView.setAdapter(mAdapter);
     }
 }

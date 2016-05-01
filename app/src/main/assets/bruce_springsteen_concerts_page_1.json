@@ -1,0 +1,3161 @@
+{
+  "resultsPage": {
+    "status": "ok",
+    "results": {
+      "event": [
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at ASU Gammage (November 6, 1975)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1975-11-06"
+          },
+          "location": {
+            "city": "Tempe, AZ, US",
+            "lat": 33.4163799,
+            "lng": -111.9380236
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 10225761,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "ASU Gammage",
+            "lat": 33.4163799,
+            "lng": -111.9380236,
+            "uri": "http://www.songkick.com/venues/5257-asu-gammage?utm_source=39992&utm_medium=partner",
+            "id": 5257,
+            "metroArea": {
+              "displayName": "Phoenix",
+              "uri": "http://www.songkick.com/metro_areas/23068-us-phoenix?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 23068,
+              "state": {
+                "displayName": "AZ"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/5679636-bruce-springsteen-and-the-e-street-band-at-asu-gammage?utm_source=39992&utm_medium=partner",
+          "id": 5679636,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band and Bruce Springsteen at Eventim Apollo (November 18, 1975)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1975-11-18"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.4908747,
+            "lng": -0.2252653
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 938603,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen",
+                "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+                    "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f"
+                  }
+                ],
+                "id": 227030
+              },
+              "displayName": "Bruce Springsteen",
+              "billing": "headline",
+              "id": 1044522,
+              "billingIndex": 2
+            }
+          ],
+          "venue": {
+            "displayName": "Eventim Apollo",
+            "lat": 51.4908747,
+            "lng": -0.2252653,
+            "uri": "http://www.songkick.com/venues/8086-eventim-apollo?utm_source=39992&utm_medium=partner",
+            "id": 8086,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/682612-bruce-springsteen-and-the-e-street-band-at-eventim-apollo?utm_source=39992&utm_medium=partner",
+          "id": 682612,
+          "popularity": 0.289796
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band and Bruce Springsteen at Eventim Apollo (November 24, 1975)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1975-11-24"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.4908747,
+            "lng": -0.2252653
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 938610,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen",
+                "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+                    "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f"
+                  }
+                ],
+                "id": 227030
+              },
+              "displayName": "Bruce Springsteen",
+              "billing": "headline",
+              "id": 1044525,
+              "billingIndex": 2
+            }
+          ],
+          "venue": {
+            "displayName": "Eventim Apollo",
+            "lat": 51.4908747,
+            "lng": -0.2252653,
+            "uri": "http://www.songkick.com/venues/8086-eventim-apollo?utm_source=39992&utm_medium=partner",
+            "id": 8086,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/682616-bruce-springsteen-and-the-e-street-band-at-eventim-apollo?utm_source=39992&utm_medium=partner",
+          "id": 682616,
+          "popularity": 0.289796
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Veterans Memorial Auditorium (February 16, 1977)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1977-02-16"
+          },
+          "location": {
+            "city": "Columbus, OH, US",
+            "lat": 39.962219,
+            "lng": -83.0085486
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 20713333,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Veterans Memorial Auditorium",
+            "lat": 39.962219,
+            "lng": -83.0085486,
+            "uri": "http://www.songkick.com/venues/3235-veterans-memorial-auditorium?utm_source=39992&utm_medium=partner",
+            "id": 3235,
+            "metroArea": {
+              "displayName": "Columbus",
+              "uri": "http://www.songkick.com/metro_areas/9480-us-columbus?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 9480,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/734853-bruce-springsteen-and-the-e-street-band-at-veterans-memorial-auditorium?utm_source=39992&utm_medium=partner",
+          "id": 734853,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (February 27, 1977)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1977-02-27"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18255933,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/734861-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 734861,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Masonic Temple (September 1, 1978)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1978-09-01"
+          },
+          "location": {
+            "city": "Detroit, MI, US",
+            "lat": 42.3415257,
+            "lng": -83.0600655
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 6531151,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Masonic Temple",
+            "lat": 42.3415257,
+            "lng": -83.0600655,
+            "uri": "http://www.songkick.com/venues/7495-masonic-temple?utm_source=39992&utm_medium=partner",
+            "id": 7495,
+            "metroArea": {
+              "displayName": "Detroit",
+              "uri": "http://www.songkick.com/metro_areas/18073-us-detroit?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 18073,
+              "state": {
+                "displayName": "MI"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/3706201-bruce-springsteen-and-the-e-street-band-at-masonic-temple?utm_source=39992&utm_medium=partner",
+          "id": 3706201,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Dow Event Center (September 3, 1978)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1978-09-03"
+          },
+          "location": {
+            "city": "Saginaw, MI, US",
+            "lat": 43.43586,
+            "lng": -83.936171
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 6531161,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Dow Event Center",
+            "lat": 43.43586,
+            "lng": -83.936171,
+            "uri": "http://www.songkick.com/venues/45204-dow-event-center?utm_source=39992&utm_medium=partner",
+            "id": 45204,
+            "metroArea": {
+              "displayName": "Detroit",
+              "uri": "http://www.songkick.com/metro_areas/18073-us-detroit?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 18073,
+              "state": {
+                "displayName": "MI"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/734943-bruce-springsteen-and-the-e-street-band-at-dow-event-center?utm_source=39992&utm_medium=partner",
+          "id": 734943,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Veterans Memorial Auditorium (September 5, 1978)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1978-09-05"
+          },
+          "location": {
+            "city": "Columbus, OH, US",
+            "lat": 39.962219,
+            "lng": -83.0085486
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 20713093,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Veterans Memorial Auditorium",
+            "lat": 39.962219,
+            "lng": -83.0085486,
+            "uri": "http://www.songkick.com/venues/3235-veterans-memorial-auditorium?utm_source=39992&utm_medium=partner",
+            "id": 3235,
+            "metroArea": {
+              "displayName": "Columbus",
+              "uri": "http://www.songkick.com/metro_areas/9480-us-columbus?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 9480,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/734944-bruce-springsteen-and-the-e-street-band-at-veterans-memorial-auditorium?utm_source=39992&utm_medium=partner",
+          "id": 734944,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (September 10, 1978)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1978-09-10"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18264753,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/734947-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 734947,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Cobo Arena (December 30, 1978)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1978-12-30"
+          },
+          "location": {
+            "city": "Detroit, MI, US",
+            "lat": 42.3258388,
+            "lng": -83.0523641
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 6531176,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Cobo Arena",
+            "lat": 42.3258388,
+            "lng": -83.0523641,
+            "uri": "http://www.songkick.com/venues/14265-cobo-arena?utm_source=39992&utm_medium=partner",
+            "id": 14265,
+            "metroArea": {
+              "displayName": "Detroit",
+              "uri": "http://www.songkick.com/metro_areas/18073-us-detroit?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 18073,
+              "state": {
+                "displayName": "MI"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/3706221-bruce-springsteen-and-the-e-street-band-at-cobo-arena?utm_source=39992&utm_medium=partner",
+          "id": 3706221,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (October 4, 1980)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1980-10-04"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18265618,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/734995-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 734995,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Cobo Arena (October 9, 1980)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1980-10-09"
+          },
+          "location": {
+            "city": "Detroit, MI, US",
+            "lat": 42.3258388,
+            "lng": -83.0523641
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 3562061,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Cobo Arena",
+            "lat": 42.3258388,
+            "lng": -83.0523641,
+            "uri": "http://www.songkick.com/venues/14265-cobo-arena?utm_source=39992&utm_medium=partner",
+            "id": 14265,
+            "metroArea": {
+              "displayName": "Detroit",
+              "uri": "http://www.songkick.com/metro_areas/18073-us-detroit?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 18073,
+              "state": {
+                "displayName": "MI"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/2314341-bruce-springsteen-and-the-e-street-band-at-cobo-arena?utm_source=39992&utm_medium=partner",
+          "id": 2314341,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen and Bruce Springsteen & The E Street Band at Newcastle City Hall (May 11, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-05-11"
+          },
+          "location": {
+            "city": "Newcastle Upon Tyne, UK",
+            "lat": 54.977177,
+            "lng": -1.609466
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen",
+                "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+                    "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f"
+                  }
+                ],
+                "id": 227030
+              },
+              "displayName": "Bruce Springsteen",
+              "billing": "headline",
+              "id": 1044833,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 49530004,
+              "billingIndex": 2
+            }
+          ],
+          "venue": {
+            "displayName": "Newcastle City Hall",
+            "lat": 54.977177,
+            "lng": -1.609466,
+            "uri": "http://www.songkick.com/venues/885211-newcastle-city-hall?utm_source=39992&utm_medium=partner",
+            "id": 885211,
+            "metroArea": {
+              "displayName": "Newcastle Upon Tyne",
+              "uri": "http://www.songkick.com/metro_areas/24577-uk-newcastle-upon-tyne?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24577
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735084-bruce-springsteen-at-newcastle-city-hall?utm_source=39992&utm_medium=partner",
+          "id": 735084,
+          "popularity": 0.289796
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at O2 Apollo Manchester (May 12, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-05-12"
+          },
+          "location": {
+            "city": "Manchester, UK",
+            "lat": 53.4606635,
+            "lng": -2.2061751
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 3761496,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "O2 Apollo Manchester",
+            "lat": 53.4606635,
+            "lng": -2.2061751,
+            "uri": "http://www.songkick.com/venues/1575-o2-apollo-manchester?utm_source=39992&utm_medium=partner",
+            "id": 1575,
+            "metroArea": {
+              "displayName": "Manchester",
+              "uri": "http://www.songkick.com/metro_areas/24475-uk-manchester?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24475
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/2377221-bruce-springsteen-and-the-e-street-band-at-o2-apollo-manchester?utm_source=39992&utm_medium=partner",
+          "id": 2377221,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band and Bruce Springsteen at SSE Arena, Wembley (June 4, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-06-04"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.5586053,
+            "lng": -0.2803252
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 939865,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen",
+                "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+                    "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f"
+                  }
+                ],
+                "id": 227030
+              },
+              "displayName": "Bruce Springsteen",
+              "billing": "headline",
+              "id": 1044845,
+              "billingIndex": 2
+            }
+          ],
+          "venue": {
+            "displayName": "SSE Arena, Wembley",
+            "lat": 51.5586053,
+            "lng": -0.2803252,
+            "uri": "http://www.songkick.com/venues/1686-sse-arena-wembley?utm_source=39992&utm_medium=partner",
+            "id": 1686,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/683310-bruce-springsteen-and-the-e-street-band-at-sse-arena-wembley?utm_source=39992&utm_medium=partner",
+          "id": 683310,
+          "popularity": 0.289796
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at SSE Arena, Wembley (June 5, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-06-05"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.5586053,
+            "lng": -0.2803252
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 5706161,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "SSE Arena, Wembley",
+            "lat": 51.5586053,
+            "lng": -0.2803252,
+            "uri": "http://www.songkick.com/venues/1686-sse-arena-wembley?utm_source=39992&utm_medium=partner",
+            "id": 1686,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735096-bruce-springsteen-and-the-e-street-band-at-sse-arena-wembley?utm_source=39992&utm_medium=partner",
+          "id": 735096,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at All State Arena (September 8, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-09-08"
+          },
+          "location": {
+            "city": "Chicago, IL, US",
+            "lat": 41.9321738,
+            "lng": -87.8846722
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 47222729,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "All State Arena",
+            "lat": 41.9321738,
+            "lng": -87.8846722,
+            "uri": "http://www.songkick.com/venues/694126-all-state-arena?utm_source=39992&utm_medium=partner",
+            "id": 694126,
+            "metroArea": {
+              "displayName": "Chicago",
+              "uri": "http://www.songkick.com/metro_areas/9426-us-chicago?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 9426,
+              "state": {
+                "displayName": "IL"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/23927219-bruce-springsteen-and-the-e-street-band-at-all-state-arena?utm_source=39992&utm_medium=partner",
+          "id": 23927219,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (September 13, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-09-13"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18266098,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735127-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 735127,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (September 14, 1981)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1981-09-14"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18266103,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735128-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 735128,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (July 5, 1984)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1984-07-05"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18266623,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735132-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 735132,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Riverfront Coliseum (July 6, 1984)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1984-07-06"
+          },
+          "location": {
+            "city": "Cincinnati, OH, US",
+            "lat": 39.0980677,
+            "lng": -84.5043575
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18266628,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Riverfront Coliseum",
+            "lat": 39.0980677,
+            "lng": -84.5043575,
+            "uri": "http://www.songkick.com/venues/38538-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 38538,
+            "metroArea": {
+              "displayName": "Cincinnati",
+              "uri": "http://www.songkick.com/metro_areas/22040-us-cincinnati?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 22040,
+              "state": {
+                "displayName": "OH"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735133-bruce-springsteen-and-the-e-street-band-at-riverfront-coliseum?utm_source=39992&utm_medium=partner",
+          "id": 735133,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen and Bruce Springsteen & The E Street Band at Melbourne Showgrounds (April 3, 1985)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1985-04-03"
+          },
+          "location": {
+            "city": "Ascot Vale, VIC, Australia",
+            "lat": -37.775633,
+            "lng": 144.9221154
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen",
+                "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+                    "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f"
+                  }
+                ],
+                "id": 227030
+              },
+              "displayName": "Bruce Springsteen",
+              "billing": "headline",
+              "id": 1044978,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 14060851,
+              "billingIndex": 2
+            }
+          ],
+          "venue": {
+            "displayName": "Melbourne Showgrounds",
+            "lat": -37.775633,
+            "lng": 144.9221154,
+            "uri": "http://www.songkick.com/venues/37012-melbourne-showgrounds?utm_source=39992&utm_medium=partner",
+            "id": 37012,
+            "metroArea": {
+              "displayName": "Melbourne",
+              "uri": "http://www.songkick.com/metro_areas/26790-australia-melbourne?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Australia"
+              },
+              "id": 26790,
+              "state": {
+                "displayName": "VIC"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735228-bruce-springsteen-at-melbourne-showgrounds?utm_source=39992&utm_medium=partner",
+          "id": 735228,
+          "popularity": 0.289796
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Slane Castle (June 1, 1985)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1985-06-01"
+          },
+          "location": {
+            "city": "Slane, Ireland",
+            "lat": 53.7095833,
+            "lng": -6.561443
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 14303956,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Slane Castle",
+            "lat": 53.7095833,
+            "lng": -6.561443,
+            "uri": "http://www.songkick.com/venues/1175246-slane-castle?utm_source=39992&utm_medium=partner",
+            "id": 1175246,
+            "metroArea": {
+              "displayName": "Slane",
+              "uri": "http://www.songkick.com/metro_areas/56741-ireland-slane?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Ireland"
+              },
+              "id": 56741
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/2433611-bruce-springsteen-and-the-e-street-band-at-slane-castle?utm_source=39992&utm_medium=partner",
+          "id": 2433611,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Wembley Stadium (July 4, 1985)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1985-07-04"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.5078,
+            "lng": -0.128
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 940874,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Wembley Stadium",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/12522-wembley-stadium?utm_source=39992&utm_medium=partner",
+            "id": 12522,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/683867-bruce-springsteen-and-the-e-street-band-at-wembley-stadium?utm_source=39992&utm_medium=partner",
+          "id": 683867,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Roundhay Park (July 7, 1985)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1985-07-07"
+          },
+          "location": {
+            "city": "Leeds, UK",
+            "lat": 53.797,
+            "lng": -1.548
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 3737696,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Roundhay Park",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/43102-roundhay-park?utm_source=39992&utm_medium=partner",
+            "id": 43102,
+            "metroArea": {
+              "displayName": "Leeds",
+              "uri": "http://www.songkick.com/metro_areas/24495-uk-leeds?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24495
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735254-bruce-springsteen-and-the-e-street-band-at-roundhay-park?utm_source=39992&utm_medium=partner",
+          "id": 735254,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at CNE Stadium (August 26, 1985)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1985-08-26"
+          },
+          "location": {
+            "city": "Toronto, ON, Canada",
+            "lat": 43.632339,
+            "lng": -79.4212734
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 15928941,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "CNE Stadium",
+            "lat": 43.632339,
+            "lng": -79.4212734,
+            "uri": "http://www.songkick.com/venues/46856-cne-stadium?utm_source=39992&utm_medium=partner",
+            "id": 46856,
+            "metroArea": {
+              "displayName": "Toronto",
+              "uri": "http://www.songkick.com/metro_areas/27396-canada-toronto?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Canada"
+              },
+              "id": 27396,
+              "state": {
+                "displayName": "ON"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/8544141-bruce-springsteen-and-the-e-street-band-at-cne-stadium?utm_source=39992&utm_medium=partner",
+          "id": 8544141,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Sydney Entertainment Centre (September 10, 1985)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1985-09-10"
+          },
+          "location": {
+            "city": "Darling Harbour, NSW, Australia",
+            "lat": -33.8657305,
+            "lng": 151.20733
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 11542756,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Sydney Entertainment Centre",
+            "lat": -33.8657305,
+            "lng": 151.20733,
+            "uri": "http://www.songkick.com/venues/43758-sydney-entertainment-centre?utm_source=39992&utm_medium=partner",
+            "id": 43758,
+            "metroArea": {
+              "displayName": "Sydney",
+              "uri": "http://www.songkick.com/metro_areas/26794-australia-sydney?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Australia"
+              },
+              "id": 26794,
+              "state": {
+                "displayName": "NSW"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/6389786-bruce-springsteen-and-the-e-street-band-at-sydney-entertainment-centre?utm_source=39992&utm_medium=partner",
+          "id": 6389786,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Dean E. Smith Center (March 4, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-03-04"
+          },
+          "location": {
+            "city": "Chapel Hill, NC, US",
+            "lat": 35.9017674,
+            "lng": -79.0440571
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 3996006,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Dean E. Smith Center",
+            "lat": 35.9017674,
+            "lng": -79.0440571,
+            "uri": "http://www.songkick.com/venues/55469-dean-e-smith-center?utm_source=39992&utm_medium=partner",
+            "id": 55469,
+            "metroArea": {
+              "displayName": "Durham",
+              "uri": "http://www.songkick.com/metro_areas/16391-us-durham?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 16391,
+              "state": {
+                "displayName": "NC"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/2426916-bruce-springsteen-and-the-e-street-band-at-dean-e-smith-center?utm_source=39992&utm_medium=partner",
+          "id": 2426916,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Rupp Arena (March 26, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-03-26"
+          },
+          "location": {
+            "city": "Lexington, KY, US",
+            "lat": 38.0491448,
+            "lng": -84.5010157
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18340628,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Rupp Arena",
+            "lat": 38.0491448,
+            "lng": -84.5010157,
+            "uri": "http://www.songkick.com/venues/974-rupp-arena?utm_source=39992&utm_medium=partner",
+            "id": 974,
+            "metroArea": {
+              "displayName": "Lexington",
+              "uri": "http://www.songkick.com/metro_areas/24580-us-lexington?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 24580,
+              "state": {
+                "displayName": "KY"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735296-bruce-springsteen-and-the-e-street-band-at-rupp-arena?utm_source=39992&utm_medium=partner",
+          "id": 735296,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Aston Villa Football Ground (June 21, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-06-21"
+          },
+          "location": {
+            "city": "Birmingham, UK",
+            "lat": 52.478,
+            "lng": -1.907
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 8012231,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Aston Villa Football Ground",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/57859-aston-villa-football-ground?utm_source=39992&utm_medium=partner",
+            "id": 57859,
+            "metroArea": {
+              "displayName": "Birmingham",
+              "uri": "http://www.songkick.com/metro_areas/24542-uk-birmingham?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24542
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735333-bruce-springsteen-and-the-e-street-band-at-aston-villa-football-ground?utm_source=39992&utm_medium=partner",
+          "id": 735333,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Aston Villa Football Ground (June 22, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-06-22"
+          },
+          "location": {
+            "city": "Birmingham, UK",
+            "lat": 52.478,
+            "lng": -1.907
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 18870373,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Aston Villa Football Ground",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/57859-aston-villa-football-ground?utm_source=39992&utm_medium=partner",
+            "id": 57859,
+            "metroArea": {
+              "displayName": "Birmingham",
+              "uri": "http://www.songkick.com/metro_areas/24542-uk-birmingham?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24542
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735334-bruce-springsteen-and-the-e-street-band-at-aston-villa-football-ground?utm_source=39992&utm_medium=partner",
+          "id": 735334,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Wembley Stadium (June 25, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-06-25"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.5078,
+            "lng": -0.128
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 941781,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Wembley Stadium",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/12522-wembley-stadium?utm_source=39992&utm_medium=partner",
+            "id": 12522,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/684319-bruce-springsteen-and-the-e-street-band-at-wembley-stadium?utm_source=39992&utm_medium=partner",
+          "id": 684319,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at RDS Showgrounds (July 7, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-07-07"
+          },
+          "location": {
+            "city": "Dublin, Ireland",
+            "lat": 53.3331,
+            "lng": -6.24889
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 14231846,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "RDS Showgrounds",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/34285-rds-showgrounds?utm_source=39992&utm_medium=partner",
+            "id": 34285,
+            "metroArea": {
+              "displayName": "Dublin",
+              "uri": "http://www.songkick.com/metro_areas/29314-ireland-dublin?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Ireland"
+              },
+              "id": 29314
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/7756996-bruce-springsteen-and-the-e-street-band-at-rds-showgrounds?utm_source=39992&utm_medium=partner",
+          "id": 7756996,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band and Bruce Springsteen at Waldstadion (July 12, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-07-12"
+          },
+          "location": {
+            "city": "Frankfurt, Germany",
+            "lat": 50.1167,
+            "lng": 8.68333
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 15218916,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen",
+                "uri": "http://www.songkick.com/artists/227030-bruce-springsteen?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:70248960-cb53-4ea4-943a-edb18f7d336f.json",
+                    "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f"
+                  }
+                ],
+                "id": 227030
+              },
+              "displayName": "Bruce Springsteen",
+              "billing": "headline",
+              "id": 1045093,
+              "billingIndex": 2
+            }
+          ],
+          "venue": {
+            "displayName": "Waldstadion",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/50310-waldstadion?utm_source=39992&utm_medium=partner",
+            "id": 50310,
+            "metroArea": {
+              "displayName": "Frankfurt",
+              "uri": "http://www.songkick.com/metro_areas/28480-germany-frankfurt?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Germany"
+              },
+              "id": 28480
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/735341-bruce-springsteen-and-the-e-street-band-at-waldstadion?utm_source=39992&utm_medium=partner",
+          "id": 735341,
+          "popularity": 0.289796
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at St. Jakob-Park (July 14, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-07-14"
+          },
+          "location": {
+            "city": "Basel, Switzerland",
+            "lat": 47.5667,
+            "lng": 7.6
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 10230186,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "St. Jakob-Park",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/45346-st-jakobpark?utm_source=39992&utm_medium=partner",
+            "id": 45346,
+            "metroArea": {
+              "displayName": "Basel",
+              "uri": "http://www.songkick.com/metro_areas/27451-switzerland-basel?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Switzerland"
+              },
+              "id": 27451
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/5681486-bruce-springsteen-and-the-e-street-band-at-st-jakobpark?utm_source=39992&utm_medium=partner",
+          "id": 5681486,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band, Sting, Peter Gabriel, Tracy Chapman, and 1 more… at Wembley Stadium (September 2, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-09-02"
+          },
+          "location": {
+            "city": "London, UK",
+            "lat": 51.5078,
+            "lng": -0.128
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 3733761,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Sting",
+                "uri": "http://www.songkick.com/artists/165478-sting?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7944ed53-2a58-4035-9b93-140a71e41c34.json",
+                    "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+                  }
+                ],
+                "id": 165478
+              },
+              "displayName": "Sting",
+              "billing": "headline",
+              "id": 1127654,
+              "billingIndex": 2
+            },
+            {
+              "artist": {
+                "displayName": "Peter Gabriel",
+                "uri": "http://www.songkick.com/artists/162962-peter-gabriel?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8e66ea2b-b57b-47d9-8df0-df4630aeb8e5.json",
+                    "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
+                  }
+                ],
+                "id": 162962
+              },
+              "displayName": "Peter Gabriel",
+              "billing": "headline",
+              "id": 1127653,
+              "billingIndex": 3
+            },
+            {
+              "artist": {
+                "displayName": "Tracy Chapman",
+                "uri": "http://www.songkick.com/artists/359872-tracy-chapman?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1129817c-488a-4096-80c1-77fc1b107c93.json",
+                    "mbid": "1129817c-488a-4096-80c1-77fc1b107c93"
+                  }
+                ],
+                "id": 359872
+              },
+              "displayName": "Tracy Chapman",
+              "billing": "headline",
+              "id": 1127655,
+              "billingIndex": 4
+            },
+            {
+              "artist": {
+                "displayName": "Youssou N'Dour",
+                "uri": "http://www.songkick.com/artists/323985-youssou-ndour?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:af081ea2-7a2c-4fbd-8200-92d62056b5f5.json",
+                    "mbid": "af081ea2-7a2c-4fbd-8200-92d62056b5f5"
+                  }
+                ],
+                "id": 323985
+              },
+              "displayName": "Youssou N'Dour",
+              "billing": "headline",
+              "id": 1127656,
+              "billingIndex": 5
+            }
+          ],
+          "venue": {
+            "displayName": "Wembley Stadium",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/12522-wembley-stadium?utm_source=39992&utm_medium=partner",
+            "id": 12522,
+            "metroArea": {
+              "displayName": "London",
+              "uri": "http://www.songkick.com/metro_areas/24426-uk-london?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "UK"
+              },
+              "id": 24426
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/501578-bruce-springsteen-and-the-e-street-band-at-wembley-stadium?utm_source=39992&utm_medium=partner",
+          "id": 501578,
+          "popularity": 0.192277
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band, Sting, Peter Gabriel, Tracy Chapman, and 2 more… at Bercy Arena (September 4, 1988)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-09-04"
+          },
+          "location": {
+            "city": "Paris, France",
+            "lat": 48.8401275,
+            "lng": 2.3804432
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 30714409,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Sting",
+                "uri": "http://www.songkick.com/artists/165478-sting?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7944ed53-2a58-4035-9b93-140a71e41c34.json",
+                    "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+                  }
+                ],
+                "id": 165478
+              },
+              "displayName": "Sting",
+              "billing": "headline",
+              "id": 1209758,
+              "billingIndex": 2
+            },
+            {
+              "artist": {
+                "displayName": "Peter Gabriel",
+                "uri": "http://www.songkick.com/artists/162962-peter-gabriel?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8e66ea2b-b57b-47d9-8df0-df4630aeb8e5.json",
+                    "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
+                  }
+                ],
+                "id": 162962
+              },
+              "displayName": "Peter Gabriel",
+              "billing": "headline",
+              "id": 30714414,
+              "billingIndex": 3
+            },
+            {
+              "artist": {
+                "displayName": "Tracy Chapman",
+                "uri": "http://www.songkick.com/artists/359872-tracy-chapman?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1129817c-488a-4096-80c1-77fc1b107c93.json",
+                    "mbid": "1129817c-488a-4096-80c1-77fc1b107c93"
+                  }
+                ],
+                "id": 359872
+              },
+              "displayName": "Tracy Chapman",
+              "billing": "headline",
+              "id": 30714419,
+              "billingIndex": 4
+            },
+            {
+              "artist": {
+                "displayName": "Youssou N'Dour",
+                "uri": "http://www.songkick.com/artists/323985-youssou-ndour?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:af081ea2-7a2c-4fbd-8200-92d62056b5f5.json",
+                    "mbid": "af081ea2-7a2c-4fbd-8200-92d62056b5f5"
+                  }
+                ],
+                "id": 323985
+              },
+              "displayName": "Youssou N'Dour",
+              "billing": "headline",
+              "id": 30714424,
+              "billingIndex": 5
+            },
+            {
+              "artist": {
+                "displayName": "Michel Jonasz",
+                "uri": "http://www.songkick.com/artists/385500-michel-jonasz?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7fafc950-653e-468f-9bce-9ddefe913ec6.json",
+                    "mbid": "7fafc950-653e-468f-9bce-9ddefe913ec6"
+                  }
+                ],
+                "id": 385500
+              },
+              "displayName": "Michel Jonasz",
+              "billing": "headline",
+              "id": 30714429,
+              "billingIndex": 6
+            }
+          ],
+          "venue": {
+            "displayName": "Bercy Arena",
+            "lat": 48.8401275,
+            "lng": 2.3804432,
+            "uri": "http://www.songkick.com/venues/34264-bercy-arena?utm_source=39992&utm_medium=partner",
+            "id": 34264,
+            "metroArea": {
+              "displayName": "Paris",
+              "uri": "http://www.songkick.com/metro_areas/28909-france-paris?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "France"
+              },
+              "id": 28909
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/501579-bruce-springsteen-and-the-e-street-band-at-bercy-arena?utm_source=39992&utm_medium=partner",
+          "id": 501579,
+          "popularity": 0.192277
+        },
+        {
+          "series": {
+            "displayName": "Human Rights Now!"
+          },
+          "type": "Festival",
+          "displayName": "Human Rights Now! 1988",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": "1988-09-21T16:00:00-0700",
+            "time": "16:00:00",
+            "date": "1988-09-21"
+          },
+          "end": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-09-21"
+          },
+          "location": {
+            "city": "Los Angeles, CA, US",
+            "lat": 34.013041,
+            "lng": -118.2825999
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Sting",
+                "uri": "http://www.songkick.com/artists/165478-sting?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7944ed53-2a58-4035-9b93-140a71e41c34.json",
+                    "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34"
+                  }
+                ],
+                "id": 165478
+              },
+              "displayName": "Sting",
+              "billing": "headline",
+              "id": 42109728,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Tracy Chapman",
+                "uri": "http://www.songkick.com/artists/359872-tracy-chapman?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1129817c-488a-4096-80c1-77fc1b107c93.json",
+                    "mbid": "1129817c-488a-4096-80c1-77fc1b107c93"
+                  }
+                ],
+                "id": 359872
+              },
+              "displayName": "Tracy Chapman",
+              "billing": "headline",
+              "id": 42109738,
+              "billingIndex": 2
+            },
+            {
+              "artist": {
+                "displayName": "Peter Gabriel",
+                "uri": "http://www.songkick.com/artists/162962-peter-gabriel?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8e66ea2b-b57b-47d9-8df0-df4630aeb8e5.json",
+                    "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
+                  }
+                ],
+                "id": 162962
+              },
+              "displayName": "Peter Gabriel",
+              "billing": "headline",
+              "id": 42109733,
+              "billingIndex": 3
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 42109723,
+              "billingIndex": 4
+            },
+            {
+              "artist": {
+                "displayName": "Bono",
+                "uri": "http://www.songkick.com/artists/104377-bono?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7f347782-eb14-40c3-98e2-17b6e1bfe56c.json",
+                    "mbid": "7f347782-eb14-40c3-98e2-17b6e1bfe56c"
+                  }
+                ],
+                "id": 104377
+              },
+              "displayName": "Bono",
+              "billing": "headline",
+              "id": 42109748,
+              "billingIndex": 5
+            },
+            {
+              "artist": {
+                "displayName": "Youssou N'Dour",
+                "uri": "http://www.songkick.com/artists/323985-youssou-ndour?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:af081ea2-7a2c-4fbd-8200-92d62056b5f5.json",
+                    "mbid": "af081ea2-7a2c-4fbd-8200-92d62056b5f5"
+                  }
+                ],
+                "id": 323985
+              },
+              "displayName": "Youssou N'Dour",
+              "billing": "headline",
+              "id": 42109743,
+              "billingIndex": 6
+            }
+          ],
+          "venue": {
+            "displayName": "Los Angeles Memorial Coliseum",
+            "lat": 34.013041,
+            "lng": -118.2825999,
+            "uri": "http://www.songkick.com/venues/15-los-angeles-memorial-coliseum?utm_source=39992&utm_medium=partner",
+            "id": 15,
+            "metroArea": {
+              "displayName": "Los Angeles",
+              "uri": "http://www.songkick.com/metro_areas/17835-us-los-angeles?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 17835,
+              "state": {
+                "displayName": "CA"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/festivals/158736/id/12481288-human-rights-now-1988?utm_source=39992&utm_medium=partner",
+          "id": 12481288,
+          "popularity": 0.192277
+        },
+        {
+          "series": {
+            "displayName": "Human Rights Now!"
+          },
+          "type": "Festival",
+          "displayName": "Human Rights Now! 1988",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-09-23"
+          },
+          "end": {
+            "datetime": null,
+            "time": null,
+            "date": "1988-09-23"
+          },
+          "location": {
+            "city": "Oakland, CA, US",
+            "lat": 37.8637376,
+            "lng": -122.2682245
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Tracy Chapman",
+                "uri": "http://www.songkick.com/artists/359872-tracy-chapman?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1129817c-488a-4096-80c1-77fc1b107c93.json",
+                    "mbid": "1129817c-488a-4096-80c1-77fc1b107c93"
+                  }
+                ],
+                "id": 359872
+              },
+              "displayName": "Tracy Chapman",
+              "billing": "headline",
+              "id": 14073781,
+              "billingIndex": 1
+            },
+            {
+              "artist": {
+                "displayName": "Peter Gabriel",
+                "uri": "http://www.songkick.com/artists/162962-peter-gabriel?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8e66ea2b-b57b-47d9-8df0-df4630aeb8e5.json",
+                    "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
+                  }
+                ],
+                "id": 162962
+              },
+              "displayName": "Peter Gabriel",
+              "billing": "headline",
+              "id": 14073776,
+              "billingIndex": 2
+            },
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 14073771,
+              "billingIndex": 3
+            },
+            {
+              "artist": {
+                "displayName": "Joan Baez",
+                "uri": "http://www.songkick.com/artists/222376-joan-baez?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:92d37892-6186-4459-9cc1-f0dde57652d0.json",
+                    "mbid": "92d37892-6186-4459-9cc1-f0dde57652d0"
+                  }
+                ],
+                "id": 222376
+              },
+              "displayName": "Joan Baez",
+              "billing": "headline",
+              "id": 14073791,
+              "billingIndex": 4
+            },
+            {
+              "artist": {
+                "displayName": "Youssou N'Dour",
+                "uri": "http://www.songkick.com/artists/323985-youssou-ndour?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:af081ea2-7a2c-4fbd-8200-92d62056b5f5.json",
+                    "mbid": "af081ea2-7a2c-4fbd-8200-92d62056b5f5"
+                  }
+                ],
+                "id": 323985
+              },
+              "displayName": "Youssou N'Dour",
+              "billing": "headline",
+              "id": 14073786,
+              "billingIndex": 5
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": 37.8637376,
+            "lng": -122.2682245,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "SF Bay Area",
+              "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 26330,
+              "state": {
+                "displayName": "CA"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/festivals/158736/id/7681396-human-rights-now-1988?utm_source=39992&utm_medium=partner",
+          "id": 7681396,
+          "popularity": 0.144969
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Waldorf Astoria Hotel (March 15, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-03-15"
+          },
+          "location": {
+            "city": "New York, NY, US",
+            "lat": 40.7565712,
+            "lng": -73.9736421
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258247,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Waldorf Astoria Hotel",
+            "lat": 40.7565712,
+            "lng": -73.9736421,
+            "uri": "http://www.songkick.com/venues/70278-waldorf-astoria-hotel?utm_source=39992&utm_medium=partner",
+            "id": 70278,
+            "metroArea": {
+              "displayName": "New York",
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 7644,
+              "state": {
+                "displayName": "NY"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873146-bruce-springsteen-and-the-e-street-band-at-waldorf-astoria-hotel?utm_source=39992&utm_medium=partner",
+          "id": 873146,
+          "popularity": 0.042215
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (March 18, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-03-18"
+          },
+          "location": {
+            "city": "Asbury Park, NJ, US",
+            "lat": 40.2224,
+            "lng": -74.0121
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258246,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "New York",
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 7644,
+              "state": {
+                "displayName": "NY"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873145-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873145,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (March 19, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-03-19"
+          },
+          "location": {
+            "city": "Asbury Park, NJ, US",
+            "lat": 40.2224,
+            "lng": -74.0121
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258245,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "New York",
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "US"
+              },
+              "id": 7644,
+              "state": {
+                "displayName": "NY"
+              }
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873144-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873144,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 9, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-09"
+          },
+          "location": {
+            "city": "Barcelona, Spain",
+            "lat": 41.3833,
+            "lng": 2.18333
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258244,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Barcelona",
+              "uri": "http://www.songkick.com/metro_areas/28714-spain-barcelona?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Spain"
+              },
+              "id": 28714
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873143-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873143,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 11, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-11"
+          },
+          "location": {
+            "city": "Barcelona, Spain",
+            "lat": 41.3833,
+            "lng": 2.18333
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258243,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Barcelona",
+              "uri": "http://www.songkick.com/metro_areas/28714-spain-barcelona?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Spain"
+              },
+              "id": 28714
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873142-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873142,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 13, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-13"
+          },
+          "location": {
+            "city": "Munich, Germany",
+            "lat": 48.1351253,
+            "lng": 11.5819806
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258242,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": 48.1351253,
+            "lng": 11.5819806,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Munich",
+              "uri": "http://www.songkick.com/metro_areas/28549-germany-munich?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Germany"
+              },
+              "id": 28549
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873141-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873141,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 15, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-15"
+          },
+          "location": {
+            "city": "Cologne, Germany",
+            "lat": 50.9333,
+            "lng": 6.95
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258241,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Cologne",
+              "uri": "http://www.songkick.com/metro_areas/28456-germany-cologne?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Germany"
+              },
+              "id": 28456
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873140-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873140,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 17, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-17"
+          },
+          "location": {
+            "city": "Bologna, Italy",
+            "lat": 44.4833,
+            "lng": 11.3333
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 796310,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Bologna",
+              "uri": "http://www.songkick.com/metro_areas/30285-italy-bologna?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Italy"
+              },
+              "id": 30285
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/561495-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 561495,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Futureshow Station (April 17, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-17"
+          },
+          "location": {
+            "city": "Bologna, Italy",
+            "lat": 44.4833,
+            "lng": 11.3333
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 10866606,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Futureshow Station",
+            "lat": null,
+            "lng": null,
+            "uri": "http://www.songkick.com/venues/47015-futureshow-station?utm_source=39992&utm_medium=partner",
+            "id": 47015,
+            "metroArea": {
+              "displayName": "Bologna",
+              "uri": "http://www.songkick.com/metro_areas/30285-italy-bologna?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Italy"
+              },
+              "id": 30285
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/6039661-bruce-springsteen-and-the-e-street-band-at-futureshow-station?utm_source=39992&utm_medium=partner",
+          "id": 6039661,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 19, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-19"
+          },
+          "location": {
+            "city": "Milan, Italy",
+            "lat": 45.4667,
+            "lng": 9.2
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 1258240,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Milan",
+              "uri": "http://www.songkick.com/metro_areas/30338-italy-milan?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Italy"
+              },
+              "id": 30338
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/873139-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 873139,
+          "popularity": 0.040838
+        },
+        {
+          "type": "Concert",
+          "displayName": "Bruce Springsteen & The E Street Band at Unknown venue (April 20, 1999)",
+          "ageRestriction": null,
+          "status": "ok",
+          "start": {
+            "datetime": null,
+            "time": null,
+            "date": "1999-04-20"
+          },
+          "location": {
+            "city": "Milan, Italy",
+            "lat": 45.4667,
+            "lng": 9.2
+          },
+          "performance": [
+            {
+              "artist": {
+                "displayName": "Bruce Springsteen & The E Street Band",
+                "uri": "http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=39992&utm_medium=partner",
+                "identifier": [
+                  {
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6652e7b-33fe-49ef-8336-4c863b4f996f.json",
+                    "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f"
+                  }
+                ],
+                "id": 423316
+              },
+              "displayName": "Bruce Springsteen & The E Street Band",
+              "billing": "headline",
+              "id": 796130,
+              "billingIndex": 1
+            }
+          ],
+          "venue": {
+            "displayName": "Unknown venue",
+            "lat": null,
+            "lng": null,
+            "uri": null,
+            "id": null,
+            "metroArea": {
+              "displayName": "Milan",
+              "uri": "http://www.songkick.com/metro_areas/30338-italy-milan?utm_source=39992&utm_medium=partner",
+              "country": {
+                "displayName": "Italy"
+              },
+              "id": 30338
+            }
+          },
+          "uri": "http://www.songkick.com/concerts/561316-bruce-springsteen-and-the-e-street-band-at-unknown-venue?utm_source=39992&utm_medium=partner",
+          "id": 561316,
+          "popularity": 0.040838
+        }
+      ]
+    },
+    "perPage": 50,
+    "page": 1,
+    "totalEntries": 907
+  }
+}

@@ -10,4 +10,6 @@ import java.util.List;
 public interface ArtistSearchView {
 
     void refreshArtistList(List<Artist> artistList);
+
+    void openConcertSearchScreen(Artist artist);
 }

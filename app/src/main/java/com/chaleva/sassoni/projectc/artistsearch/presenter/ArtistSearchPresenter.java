@@ -42,6 +42,12 @@ public class ArtistSearchPresenter implements Observer<List<Artist>> {
         mSubscription = mProvider.getArtistsForSearchTerm(searchTerm).subscribe(this);
     }
 
+    public void onArtistClicked(Artist artist) {
+        if (mView != null) {
+            mView.openConcertSearchScreen(artist);
+        }
+    }
+
     @Override
     public void onCompleted() {
 
